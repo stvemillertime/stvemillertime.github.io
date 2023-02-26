@@ -1,29 +1,11 @@
 ---
 layout: page
-title: About
+title: About yararul.es
 permalink: /about/
 ---
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
+As a college student I read tons of blogs from industry insiders who shared ideas on the world of CNO, intrusion analysis, malware, threat detection and incident response. I found the raw, unfiltered takes much more illuminating than books or schoolwork and the blogs were always great starting points for advancing my own learnings and building understanding and world views that would come to help me in my career. 
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
+This is a curated collection of my favorite resources, links along with some personal ideas, thoughts, rants and writings on YARA, DFIR, malware detection, threat intelligence, adversary tradecraft and so forth. Maybe some folks stumble along and find this, and maybe it helps you helps y'all who are wishing to learn and grow and get into the security space.
 
-## Features
-
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
-
-Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
+-smiller
