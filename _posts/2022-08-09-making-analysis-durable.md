@@ -1,7 +1,8 @@
 ---
 layout: post
-title: On making analysis durable
+title: ""
 categories: [analysis, synapse, suricata, yara]
+#excerpt: I am a scalpel, a tweezer, a rifle...
 ---
 
 I am the type of analyst that focuses on small, unique, things that I like to utterly destroy in depth and detail. I am a scalpel, a tweezer, a rifle, a laser guided missile. While I oft solve for precision, in all my work the thing I love the most is making my analysis durable.
